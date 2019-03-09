@@ -37,23 +37,30 @@ Github issues
 
 <h3> 2.6 Stakeholders </h3>
 Stakeholders
+
 Engagement with stakeholders
 
 <br />
 <h2><a name = "Title3"> 3. Support Documentation </a></h2>
 
 **Statement of Work**
+
 Link to Statement of Work
 
 **Team Communication**
+
 Link to Slack
+
 Link to Client/Team meetings, how often
 
 **Team Progress Tracking**
+
 Link to Github issues
+
 Link to Weekly Log
 
 **Legal Documents**
+
 Not required
 
 <br />
