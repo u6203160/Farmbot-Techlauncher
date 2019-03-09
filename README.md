@@ -9,6 +9,7 @@
 
 <br />
 <h2><a name = "Title1"> 1. Project Overview </a></h2>
+
 Farmbot Website
 
 <br />
@@ -64,17 +65,19 @@ Not required
 <br />
 <h2><a name = "Title4"> 4. Current Progress </a></h2>
 
+Current Progress description/current milestone
+
 **Milestone 1**
 
-Milestone 1
+Description of milestone
 
 **Milestone 2**
 
-Milestone 2
+Description of milestone
 
 **Milestone 3**
 
-Milestone 3
+Description of milestone
 
 <br />
 <h2><a name = "Title5"> 5. Technical Tools and Constraints</a></h2>
