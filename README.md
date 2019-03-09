@@ -45,19 +45,19 @@ Engagement with stakeholders
 
 **Statement of Work**
 
-Link to Statement of Work
+>Link to Statement of Work
 
 **Team Communication**
 
-Link to Slack
+>Link to Slack
 
-Link to Client/Team meetings, how often
+>Link to Client/Team meetings, how often
 
 **Team Progress Tracking**
 
-Link to Github issues
+>Link to Github issues
 
-Link to Weekly Log
+>Link to Weekly Log
 
 **Legal Documents**
 
