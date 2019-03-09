@@ -63,13 +63,18 @@ Not required
 
 <br />
 <h2><a name = "Title4"> 4. Current Progress </a></h2>
-Description of current point of progress and current milestone
 
 **Milestone 1**
 
+Milestone 1
+
 **Milestone 2**
 
+Milestone 2
+
 **Milestone 3**
+
+Milestone 3
 
 <br />
 <h2><a name = "Title5"> 5. Technical Tools and Constraints</a></h2>
