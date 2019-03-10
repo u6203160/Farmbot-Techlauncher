@@ -28,7 +28,7 @@ Github issues
 |----------------------------------|------------------------------------------|---------------------------------|  
 | Member 1                         | Role                                     | uXXXXXXX@anu.edu.au             |
 | Member 2                         | Role                                     | uXXXXXXX@anu.edu.au             | 
-| Member 3                         | Role                                     | uXXXXXXX@anu.edu.au             |
+| Maojun Zhu                       | Role                                     | u6170753@anu.edu.au             |
 | Member 4                         | Role                                     | uXXXXXXX@anu.edu.au             |
 | Member 5                         | Role                                     | uXXXXXXX@anu.edu.au             |
 | Member 6                         | Role                                     | uXXXXXXX@anu.edu.au             |
