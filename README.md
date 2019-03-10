@@ -10,17 +10,38 @@
 <br />
 <h2><a name = "Title1"> 1. Project Overview </a></h2>
 
-Farmbot Website
+The Farmbot is an autonomous agricultural tool which works over a small area to test small-scale agriculture, and has the potential to eventually become a framework for driverless tractors or drones. Current Farmbot software has the capability for simple placement of individual plants, and execute simple commands like watering and fertilizing certain plants. Our expectations of the project is to adopt machine learning skills and modelling techniques to reinforce the capability of Farmbot to automate group plantations and duplicate commands. Our modifications on Farmbot aim to enhance the capability of controlling and monitoring. Our priorities are to optimise plant management and leverage the technology of the Farmbot platform.
+
+>Farmbot Website
 
 <br />
 <h2><a name = "Title2"> 2. Project Administration </a></h2>
 
 <h3> 2.1 Timeline </h3>
 
+Week 2-3 Discovery Stage
+Week 4-5 Alpha Version - Able to send commands to Farmbot
+Week 6-9 Beta Version - Most commands have been implemented in code, which compiles and is received by Farmbot. Data is able to be input through CSV or text files. 
+Week 10-12 Reflection and Improvements 
+
 <h3> 2.2 Deliverables </h3>
 
+* Modular Python code that implements:
+    * New version of Farm Design, which accepts CSV files as a way of defining groups of plants, and also keeps some of the original functionality such as telling you when plants are too closely spaced together, and displaying information on the plants.
+    * New version of the existing sequences, which are associated with Farm Design groups, supports loops, accepts JSON, yaml, or text files as ways of defining these tasks, and has the option to output logs in both CSV and custom text format
+    * New text-based implementation of Regimens, which are associated with Farm Design groups.
+    * New text-based implementation of Farm Events, which are associated with Farm Design groups.
+    * Some way to test commands without ruining the garden bed.
+    * All implementations should also be able to create, edit and write to files that store these Farm Designs, Sequences, Regimens, and Events, and have their callable functions structured in a way that would easily support the future addition of a GUI.
+    
+* Documentation:
+    * High level documentation of the code, to be done as we go in a wiki format on GitHub
+    * Well commented code
+    * Commit messages should be a good description of changes made in that commit. If you want to make many changes, please do it in separate commits.
+    * A guide on how to use the resulting code, to be handed to the stakeholders and made available on GitHub
+
 <h3> 2.3 Traceability of Actions </h3>
-Github issues
+We are using Github issues and project wiki to track actions and deliverables.
 
 <h3> 2.4 Team </h3>
 
@@ -34,12 +55,10 @@ Github issues
 | Member 6                         | Role                                     | uXXXXXXX@anu.edu.au             |
 | Member 7                         | Role                                     | uXXXXXXX@anu.edu.au             |
 
-<h3> 2.5 Development Approach </h3>
+<h3> 2.5 Stakeholders </h3>
 
-<h3> 2.6 Stakeholders </h3>
-Stakeholders
-
-Engagement with stakeholders
+Ming-Dao Chia is our client and main point of contact. We meet with Ming weekly and communicate regularly on Slack. 
+Our team works on software and collaborate with students from Engineering to discover and optimize the functionalities of Farmbot platform.
 
 <br />
 <h2><a name = "Title3"> 3. Support Documentation </a></h2>
@@ -65,19 +84,31 @@ Not required
 <br />
 <h2><a name = "Title4"> 4. Current Progress </a></h2>
 
-Current Progress description/current milestone
+Current Progress: Completed github landing page, established roles and started discovery
 
-**Milestone 1**
+**Milestone 1 - Week 3**
 
-Description of milestone
+Finished discovery and ready to start implementation
 
-**Milestone 2**
+**Milestone 2 - Week 5**
 
-Description of milestone
+Alpha version completed
 
-**Milestone 3**
+**Milestone 3 - Week 9**
 
-Description of milestone
+Beta version completed
+
+**Milestone 4 - Week 12**
+
+Improvements implemented
 
 <br />
 <h2><a name = "Title5"> 5. Technical Tools and Constraints</a></h2>
+
+* Available Tools:
+    * One FarmBot XL for testing
+    * Existing code base, particularly the RESTful API, which means it can work with modules written in other languages (originally written in Ruby)
+* Constraints:
+    * Some testing has to be done on site with physical machines
+    * Python is the preferred language
+
