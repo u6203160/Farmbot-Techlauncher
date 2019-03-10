@@ -84,8 +84,8 @@ Not required
 
 Current Progress: Completed github landing page, established roles and started discovery
 
-<h2>Milestones:</h2> 
-<br/>
+**Milestones:**
+
 Phase 1: Discovery Report to demonstrate project specifications and requirements <br/>
 Phase 2: Record observations and testings to list down the functionality of Alpha version <br/>
 Phase 3: Implement the Beta version to task on the project Requirements<br/>
