@@ -49,7 +49,7 @@ We are using Github issues and project wiki to track actions and deliverables.
 | Member 2                         | Role                                     | u5807060@anu.edu.au             | 
 | Maojun Zhu                       | Role                                     | u6170753@anu.edu.au             |
 | Member 4                         | Role                                     | uXXXXXXX@anu.edu.au             |
-| Member 5                         | Role                                     | uXXXXXXX@anu.edu.au             |
+| Yutian Wang                      | Role                                     | u6269498@anu.edu.au             |
 | Member 6                         | Role                                     | uXXXXXXX@anu.edu.au             |
 | Wenjing Gu                       | Member                                   | u6203160@anu.edu.au             |
 
