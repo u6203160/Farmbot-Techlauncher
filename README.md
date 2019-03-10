@@ -17,10 +17,10 @@ The [Farmbot](https://farm.bot/) is an autonomous agricultural tool which works 
 
 <h3> 2.1 Timeline </h3>
 
-Week 2-3 Discovery Stage
-Week 4-5 Alpha Version - Able to send commands to Farmbot
-Week 6-9 Beta Version - Most commands have been implemented in code, which compiles and is received by Farmbot. Data is able to be input through CSV or text files. 
-Week 10-12 Reflection and Improvements 
+Week 2-3 Discovery Stage <br />
+Week 4-5 Alpha Version - Able to send commands to Farmbot <br />
+Week 6-9 Beta Version - Most commands have been implemented in code, which compiles and is received by Farmbot. Data is able to be input  through CSV or text files <br />
+Week 10-12 Reflection and Improvements <br />
 
 <h3> 2.2 Deliverables </h3>
 
