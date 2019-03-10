@@ -61,19 +61,21 @@ Our team works on software and collaborate with students from Engineering to dis
 <br />
 <h2><a name = "Title3"> 3. Support Documentation </a></h2>
 
+[Google Drive](https://drive.google.com/drive/folders/16XlRWSlGrqiolu_-3hwJq_npcvXVY4Z9?usp=sharing)
+
 **Statement of Work**
 
->Link to Statement of Work <br />
+>[Statement of Work](https://docs.google.com/document/d/1FSB61TqXdBAb-pXFtHVFb-pJZitc8AbANnnLSZ1RSLc/edit?usp=sharing) <br />
 
 **Team Communication**
 
->Link to Slack <br />
->Link to Client/Team meetings, how often <br />
+>[Slack](https://anuappffarmbot.slack.com/messages/CGHMVT15J/) <br />
+>[Meeting Minutes](https://drive.google.com/drive/u/0/folders/1jJi34sRYmjUgE1syTGPG4aYzWS5fJ-hc) <br />
 
 **Team Progress Tracking**
 
->Link to Github issues <br />
->Link to Weekly Log <br />
+>[Github issues](https://github.com/dopfer/Farmbot-Techlauncher/issues)<br />
+>[Weekly Log](https://docs.google.com/spreadsheets/d/1Wc2fRnvIfTPPWfBzSRZM2Uqh6Ayl5jGhBfXq_vXEDsE/edit?usp=sharing) <br />
 
 **Legal Documents**
 
@@ -92,7 +94,6 @@ Phase 3: Implement the Beta version to task on the project Requirements<br/>
 Phase 4: Testings and Feedbacks to Beta Version<br/>
 Phase 5: Improvements on Beta Version and Demonstration of functionality of project<br/>
 
-
 <br />
 <h2><a name = "Title5"> 5. Technical Tools and Constraints</a></h2>
 
@@ -102,4 +103,3 @@ Phase 5: Improvements on Beta Version and Demonstration of functionality of proj
 * Constraints:
     * Some testing has to be done on site with physical machines
     * Python is the preferred language
-
