@@ -84,21 +84,14 @@ Not required
 
 Current Progress: Completed github landing page, established roles and started discovery
 
-**Milestone 1 - Week 3**
+Milestones: 
 
-Finished discovery and ready to start implementation
+Phase 1: Discovery Report to demonstrate project specifications and requirements 
+Phase 2: Record observations and testings to list down the functionality of Alpha version 
+Phase 3: Implement the Beta version to task on the project Requirements
+Phase 4: Testings and Feedbacks to Beta Version
+Phase 5: Improvements on Beta Version and Demonstration of functionality of project 
 
-**Milestone 2 - Week 5**
-
-Alpha version completed
-
-**Milestone 3 - Week 9**
-
-Beta version completed
-
-**Milestone 4 - Week 12**
-
-Improvements implemented
 
 <br />
 <h2><a name = "Title5"> 5. Technical Tools and Constraints</a></h2>
