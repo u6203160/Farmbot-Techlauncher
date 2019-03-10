@@ -51,7 +51,7 @@ We are using Github issues and project wiki to track actions and deliverables.
 | Member 4                         | Role                                     | uXXXXXXX@anu.edu.au             |
 | Member 5                         | Role                                     | uXXXXXXX@anu.edu.au             |
 | Member 6                         | Role                                     | uXXXXXXX@anu.edu.au             |
-| Member 7                         | Role                                     | uXXXXXXX@anu.edu.au             |
+| Wenjing Gu                       | Member                                   | u6203160@anu.edu.au             |
 
 <h3> 2.5 Stakeholders </h3>
 
