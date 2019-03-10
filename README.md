@@ -10,7 +10,7 @@
 <br />
 <h2><a name = "Title1"> 1. Project Overview </a></h2>
 
-The Farmbot is an autonomous agricultural tool which works over a small area to test small-scale agriculture, and has the potential to eventually become a framework for driverless tractors or drones. Current Farmbot software has the capability for simple placement of individual plants, and execute simple commands like watering and fertilizing certain plants. Our expectations of the project is to adopt machine learning skills and modelling techniques to reinforce the capability of Farmbot to automate group plantations and duplicate commands. Our modifications on Farmbot aim to enhance the capability of controlling and monitoring. Our priorities are to optimise plant management and leverage the technology of the Farmbot platform.
+The [Farmbot](https://farm.bot/) is an autonomous agricultural tool which works over a small area to test small-scale agriculture, and has the potential to eventually become a framework for driverless tractors or drones. Current Farmbot software has the capability for simple placement of individual plants, and execute simple commands like watering and fertilizing certain plants. Our expectations of the project is to adopt machine learning skills and modelling techniques to reinforce the capability of Farmbot to automate group plantations and duplicate commands. Our modifications on Farmbot aim to enhance the capability of controlling and monitoring. Our priorities are to optimise plant management and leverage the technology of the Farmbot platform.
 
 >Farmbot Website
 
