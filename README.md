@@ -45,7 +45,7 @@ We are using Github issues and project wiki to track actions and deliverables.
 
 | Team Member                      | Role                                     | Email                           | 
 |----------------------------------|------------------------------------------|---------------------------------|  
-| Member 1                         | Role                                     | uXXXXXXX@anu.edu.au             |
+| Patrick Benter                   | Team Leader                              | u5583834@anu.edu.au             |
 | Member 2                         | Role                                     | u5807060@anu.edu.au             | 
 | Maojun Zhu                       | Role                                     | u6170753@anu.edu.au             |
 | Member 4                         | Role                                     | uXXXXXXX@anu.edu.au             |
@@ -61,7 +61,7 @@ Our team works on software and collaborate with students from Engineering to dis
 <br />
 <h2><a name = "Title3"> 3. Support Documentation </a></h2>
 
-[Google Drive](https://drive.google.com/drive/folders/16XlRWSlGrqiolu_-3hwJq_npcvXVY4Z9?usp=sharing)
+>[Google Drive](https://drive.google.com/drive/folders/16XlRWSlGrqiolu_-3hwJq_npcvXVY4Z9?usp=sharing)
 
 **Statement of Work**
 
