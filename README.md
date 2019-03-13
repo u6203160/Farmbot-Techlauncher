@@ -45,13 +45,13 @@ We are using Github issues and project wiki to track actions and deliverables.
 
 | Team Member                      | Role                                     | Email                           | 
 |----------------------------------|------------------------------------------|---------------------------------|  
-| Patrick Benter                   | Team Leader & DevOps                     | u5583834@anu.edu.au             |
-| Zhixian Wu                       | Delivery Manager                         | u5807060@anu.edu.au             | 
-| Maojun Zhu                       | Team Coordinator                         | u6170753@anu.edu.au             |
+| Patrick Benter                   | Team Leader, DevOps, Programmer          | u5583834@anu.edu.au             |
+| Zhixian Wu                       | Delivery Manager, Programmer             | u5807060@anu.edu.au             | 
+| Maojun Zhu                       | Team Coordinator, Programmer             | u6170753@anu.edu.au             |
 | Zizheng Huang                    | Programmer                               | u6248330@anu.edu.au             |
 | Yutian Wang                      | Programmer                               | u6269498@anu.edu.au             |
 | Wei Ren                          | Programmer                               | u6233682@anu.edu.au             |
-| Wenjing Gu                       | Project Manager                          | u6203160@anu.edu.au             |
+| Wenjing Gu                       | Project Manager, Programmer              | u6203160@anu.edu.au             |
 
 <h3> 2.5 Stakeholders </h3>
 
