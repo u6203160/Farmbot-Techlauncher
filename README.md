@@ -57,13 +57,18 @@ We are using Github issues and project wiki to track actions and deliverables.
 
 * Client: Ming-Dao Chia. 
     * Communication Method: Slack and weekly meetings 
+    * Ming has found the current FarmBot interface cumbersome and wants a more powerful one. He is not developing the software but he and his will be using it regularly. This is a strong motivation to write a clear, accessible user guide.
     * High Interest, High Power
 * Hardware Team
     * There is a hardware team designing new tools for the FarmBot. Most of our work is separate from theirs, but if they finish any tools early we may have time to connect it to the FarmBot software with CeleryScript.
     * Medium Interest, Medium Power
+* Tutors and Program Conveners:
+    * We are being assessed on our work by our tutor and program conveners.
+    * High Interest, High Power
 * All current users of FarmBot 
-    * FarmBots are produced by a company which ships them worldwide. They are used in multiple continents for research, teaching, and other purposes. The current FarmBot software is open-source under an MIT license and the code we produce will also be open-source and free for all current users of FarmBot to use and expand on, e.g. to add a GUI.
-    * Low to Medium Interest, Low Power
+    * FarmBots are produced by a company which ships them worldwide. They are used in multiple continents for research, teaching, and other purposes. The current FarmBot software is open-source under an MIT license and the code we produce will also be open-source and free for all current users of FarmBot to use and expand on, e.g. to add a GUI. 
+    * This is another motivation to write an accessible user guide.
+    * Low to Medium Interest, Low Power.
 
 <br />
 <h2><a name = "Title3"> 3. Support Documentation </a></h2>
