@@ -100,11 +100,10 @@ Current Progress: Completed github landing page, established roles and started d
 
 **Milestones:**
 
-Phase 1: Discovery Report to demonstrate project specifications and requirements <br/>
-Phase 2: Record observations and testings to list down the functionality of Alpha version <br/>
-Phase 3: Implement the Beta version to task on the project Requirements<br/>
-Phase 4: Testings and Feedbacks to Beta Version<br/>
-Phase 5: Improvements on Beta Version and Demonstration of functionality of project<br/>
+Phase 1: Create a Discovery Report to demonstrate project specifications and requirements <br/>
+Phase 2: Release an alpha version of the software, able to send simple commands to the Farmbot, replicating current functionality <br/>
+Phase 3: Release a beta version of the software, implementing most desired commands while integrating external input through text and CSV <br/>
+Phase 4: Finalizing beta version and demonstrating functionality, developing handover documentation <br/>
 
 <br />
 <h2><a name = "Title5"> 5. Technical Tools and Constraints</a></h2>
