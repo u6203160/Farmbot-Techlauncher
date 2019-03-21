@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 20 16:50:52 2019
-
-@author: huang
-"""
 
 import requests
 from os import getcwd
