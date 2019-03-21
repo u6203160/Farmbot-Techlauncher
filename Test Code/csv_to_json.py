@@ -7,7 +7,7 @@ jsonfile = open('output.json', 'w')
 
 #Sort each row with cooresponding attribute to json format
 fieldnames = ("")
-reader = csv.DictReader(csvfile, fieldnames)
-for row in reader:
-    json.dump(row, jsonfile)
+csvReader = csv.DictReader(csvfile, fieldnames)
+for csvRow in csvReader:
+    json.dump(csvRow, jsonfile)
     jsonfile.write('\n')
