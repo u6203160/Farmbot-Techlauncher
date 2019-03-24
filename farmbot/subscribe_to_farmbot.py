@@ -1,11 +1,14 @@
 import paho.mqtt.client as mqtt
+import api_token_gen.token_data as token_data
 # This information was created using `token_generation_example.py`.
-my_device_id = api_token_gen.token_data['token']['unencoded']['bot']
+my_device_id = token_data['token']['unencoded']['bot']
 # This information was created using `token_generation_example.py`.
-my_token = api_token_gen.the_token
+my_token = token_data['token']['encoded']
 # I *think* this gets the server right
 my_server = token_data['token']['unencoded']['mqtt']
 
+# This is our custom on_connect fuction which is called by the server when
+# we connect to it.
 def on_connect(client, userdata, flags, rc):
     print("Connected with result code " + str(rc))
 
@@ -29,7 +32,8 @@ def on_connect(client, userdata, flags, rc):
     # commands. It's JSON, like everything else.
     client.subscribe("bot/" + my_device_id + "/from_device")
 
-
+# This is our custom on_message fuction which is called by the server when
+# it wants to send a message.
 def on_message(client, userdata, msg):
     # Print stuff to the screen.
     # EXERCISE: Try running this script and pushing buttons on the Web App.
@@ -39,7 +43,7 @@ def on_message(client, userdata, msg):
 
 
 # Connect to the broker...
-client = mqtt.Client()
+client = mqtt.Client("name_set_by_user")
 # ...using credentials from `token_generation_example.py`
 client.username_pw_set(my_device_id, my_token)
 
@@ -48,6 +52,6 @@ client.on_connect = on_connect
 client.on_message = on_message
 
 # Finally, connect to the server:
-client.connect(my_server, 1883, 60)
+client.connect(my_server, port=1883, keepalive=60)
 
 client.loop_forever()
