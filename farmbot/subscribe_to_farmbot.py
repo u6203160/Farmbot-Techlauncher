@@ -10,7 +10,10 @@ my_server = token_data['token']['unencoded']['mqtt']
 # This is our custom on_connect fuction which is called by the server when
 # we connect to it.
 def on_connect(client, userdata, flags, rc):
-    print("Connected with result code " + str(rc))
+    if (rc == 5):
+        return "authentication error: wrong username or password"
+    elif (rc == 0):
+        print("authentication successful")
 
     # "bot/device_name/status" will broadcast the FarmBot "state tree"- it is a
     # data structure representing _all_ bot state, such as pin status, lock
