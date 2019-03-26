@@ -1,4 +1,7 @@
 # the is the template of CSV reader, the reading flow based on the sequence of rows,
+
+# import numpy as np
+# import pandas as pd
 def __init__(self):
     """ YOUR CODE HERE. """
     self.plant_type = ""
@@ -8,6 +11,7 @@ def __init__(self):
     self.z_coordinate = 0.0
     self.init_plant_date = (0, 0, 0)
 
+# df_test = pd.read_csv('test.csv')
 
 def read_csv(self, path_file):
     """ YOUR CODE HERE. """
@@ -35,3 +39,4 @@ def read_csv(self, path_file):
     self.y_coordinate = y_coordinate
     self.z_coordinate = z_coordinate
     self.init_plant_date = init_plant_date
+    # print(df_test)
