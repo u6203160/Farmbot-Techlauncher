@@ -1,11 +1,11 @@
 import paho.mqtt.client as mqtt
-import api_token_gen.token_data as token_data
+import api_token_gen
 # This information was created using `token_generation_example.py`.
-my_device_id = token_data['token']['unencoded']['bot']
+my_device_id = api_token_gen.token_data['token']['unencoded']['bot']
 # This information was created using `token_generation_example.py`.
-my_token = token_data['token']['encoded']
+my_token = api_token_gen.token_data['token']['encoded']
 # I *think* this gets the server right
-my_server = token_data['token']['unencoded']['mqtt']
+my_server = api_token_gen.token_data['token']['unencoded']['mqtt']
 
 # This is our custom on_connect fuction which is called by the server when
 # we connect to it.
